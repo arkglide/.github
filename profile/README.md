@@ -15,7 +15,7 @@ ArkGlide 想把游戏开发里尽可能多的事情放进浏览器：编辑场�
 ## 我们的项目
 
 - [`arkglide`](https://github.com/arkglide/arkglide) — 前端编辑器、SDK 和运行时。
-- [`relay`](https://github.com/arkglide/arkglide-relay) — 使用 Go 编写的联机中继服务器模板，采用 BYOS 模式。
+- [`relay`](https://github.com/arkglide/arkglide-relay) — 使用 C# 编写的联机中继服务器模板，采用 BYOS 模式。
 
 项目目前还处在早期开发阶段。编辑器、SDK、运行时和协议都还在继续调整，仓库之间的结构也可能随着开发推进发生变化。
 
